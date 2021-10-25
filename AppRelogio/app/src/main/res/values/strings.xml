@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppRelogio</string>
+    <string name="texto">Olá, mundo!</string>
+    <string name="nivelBateria">Nível de Bateria</string>
+</resources>
